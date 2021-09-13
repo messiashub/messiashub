@@ -2,7 +2,7 @@
 
 ### Atualmente estou revisando Js e Bootstrap
 
-<div display ="flex">
+<div display ="inline-block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=messiashub&show_icons=true&theme=blueberry"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiashub&layout=compact&langs_count=16&theme=blueberry"/>
 </div>
