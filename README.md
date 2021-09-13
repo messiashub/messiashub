@@ -3,8 +3,10 @@
 ### Atualmente estou revisando Js e Bootstrap
 
 <div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=messiashub&show_icons=true&theme=blueberry"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiashub&layout=compact&langs_count=16&theme=blueberry"/>
+  <a>
+  <img justify="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=messiashub&show_icons=true&theme=blueberry"/>
+  </a> 
+  <img justify="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiashub&layout=compact&langs_count=16&theme=blueberry"/>
 </div>
 
 ### Tecnologias
