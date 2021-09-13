@@ -3,8 +3,8 @@
 ### Atualmente estou revisando Js e Bootstrap
 
 <div style="display:inline_block">
-  <img align="center" height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=messiashub&show_icons=true&theme=blueberry"/>  
-  <img align="center" height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiashub&layout=compact&langs_count=16&theme=blueberry"/>
+  <img align="center" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=messiashub&show_icons=true&theme=blueberry"/>  
+  <img align="center" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiashub&layout=compact&langs_count=16&theme=blueberry"/>
 </div>
 
 ### Tecnologias
